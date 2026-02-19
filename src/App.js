@@ -4,7 +4,7 @@ import TransactionList from "./TransactionList";
 import Summary from "./Summary";
 import "./App.css";
 import ExpenseChart from "./ExpenseChart";
-
+  
 function App() {
   const [transactions, setTransactions] = useState([]);
 
